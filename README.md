@@ -1,11 +1,12 @@
-# Olá! 👋
+# Olá, sou a Anna Carolina! 👋
 
-Sou a Anna Carolina, estudante de tecnologia apaixonada por lógica e resolução de problemas. Estou trilhando meu caminho no mundo da programação, sempre em busca de aprender, testar e evoluir.
+Como estudante de Análise e Desenvolvimento de Sistemas com foco em Front-end, minha missão é transformar lógica e resolução de problemas em interfaces funcionais e intuitivas. Minha prática é guiada pela busca constante em escrever código semântico, limpo e bem organizado, garantindo não apenas a estética, mas a acessibilidade e a performance das aplicações. Estou em constante evolução, explorando novas tecnologias para construir uma web mais eficiente e centrada no usuário.
 
 ## 🛠️ Tecnologias que estou estudando
-- **Linguagens:** C, JavaScript, Python
-- **Ambiente:** VS Code
-- **Versionamento:** Git e GitHub
+- Linguagens: C, JavaScript, Python
+- Desenvolvimento web: HTML, CSS
+- Ambiente: VS Code
+- Versionamento: Git e GitHub
 
 ## 🚀 Projetos acadêmicos que desenvolvi
 Aqui estão alguns dos meus primeiros passos e códigos práticos:
