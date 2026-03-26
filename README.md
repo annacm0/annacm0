@@ -4,7 +4,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas com foco em Front-end, 
 
 ## 🛠️ Tecnologias que estou estudando
 - Linguagens: C, JavaScript, Python
-- Desenvolvimento web: HTML, CSS
+- Desenvolvimento web: HTML5, CSS3
 - Ambiente: VS Code
 - Versionamento: Git e GitHub
 
