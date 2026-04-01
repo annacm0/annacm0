@@ -9,7 +9,8 @@ Como estudante de Análise e Desenvolvimento de Sistemas com foco em Front-end, 
 - Versionamento: Git e GitHub
 
 ## 🚀 Projetos acadêmicos que desenvolvi
-Aqui estão alguns dos meus primeiros passos e códigos práticos:
+Aqui estão alguns dos meus primeiros passos:
+- [Netflix Clone](https://github.com/annacm0/netflix-interface-practice) - Um projeto inicial de streaming inspirado na Netflix.
 - [Cálculo de IMC](https://github.com/annacm0/calculo-imc-c) - Um projeto simples para fixação de lógica.
 - [Despesas de Viagem](https://github.com/annacm0/despesas_viagem) - Um programa em C para cálculo de gastos com combustível.
 
