@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, 
 - Versionamento: Git e GitHub
 
 🚀 Projetos educativos que desenvolvi
-Aqui estão alguns dos meus primeiros passos:
+
 - [Tecboard](https://github.com/annacm0/tecboard.git) - Projeto desenvolvido durante a carreira Front-end da Alura.
 - [Netflix Clone](https://github.com/annacm0/netflix-interface-practice.git) - Um projeto inicial de streaming inspirado na Netflix.
 - [Cálculo de IMC](https://github.com/annacm0/calculo-imc-c.git) - Um projeto simples para fixação de lógica.
