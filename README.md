@@ -5,12 +5,14 @@ Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, 
 🛠️ Tecnologias que estou estudando
 - Linguagens: C, JavaScript, Python
 - Desenvolvimento web: HTML5, CSS3
+- UI/UX: Figma
 - Ambiente: VS Code
 - Versionamento: Git e GitHub
 
 🚀 Projetos educativos que desenvolvi
 
-- [Tecboard](https://github.com/annacm0/tecboard.git) - Projeto desenvolvido durante a carreira Front-end da Alura.
+- [Pesquisa Culturama](https://github.com/annacm0/pesquisa-culturama.git) - Criação de um formulário para pesquisa de opinião da Culturama.
+- [Tecboard](https://github.com/annacm0/tecboard.git) - Simulação de um fluxo real de trabalho para criação de um aplicativo de monitoramento de sistemas.
 - [Netflix Clone](https://github.com/annacm0/netflix-interface-practice.git) - Um projeto inicial de streaming inspirado na Netflix.
 - [Cálculo de IMC](https://github.com/annacm0/calculo-imc-c.git) - Um projeto simples para fixação de lógica.
 - [Despesas de Viagem](https://github.com/annacm0/despesas_viagem.git) - Um programa em C para cálculo de gastos com combustível.
