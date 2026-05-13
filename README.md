@@ -1,6 +1,6 @@
 Olá! 
 
-Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, focada no desenvolvimento Front-end. Além da graduação, invisto em formação contínua para aplicar conhecimentos práticos em HTML, CSS e JavaScript, priorizando a escrita de código semântico e organizado. Busco ingressar em um time de tecnologia onde eu possa colaborar com soluções eficientes e acelerar meu desenvolvimento técnico através de projetos desafiadores.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas, em transição de carreira, focada no desenvolvimento Front-end. Além da graduação, invisto em formação contínua para aplicar conhecimentos práticos em HTML, CSS e JavaScript, priorizando a escrita de código semântico e organizado. Busco ingressar em um time de tecnologia onde eu possa colaborar com soluções eficientes e acelerar meu desenvolvimento técnico através de projetos desafiadores.
 
 🛠️ Tecnologias que estou estudando
 - Linguagens: C, JavaScript, Python
