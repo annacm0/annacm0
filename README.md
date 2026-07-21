@@ -6,7 +6,7 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas, em transição
 - Linguagens: C, JavaScript, Python
 - Desenvolvimento web: HTML5, CSS3
 - UI/UX: Figma
-- Ambiente: VS Code
+- Ambiente: Antigravity, Claude Code, VS Code
 - Versionamento: Git e GitHub
 
 🚀 Projetos educativos que desenvolvi
