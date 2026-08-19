@@ -11,7 +11,7 @@ Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas
 
 🚀 Projetos educativos que desenvolvi
 
-- [Jornada-viagens](https://github.com/annacm0/jornada-viagens)) - É um projeto de site fictício de uma agência de turismo.
+- [Jornada-viagens](https://github.com/annacm0/jornada-viagens) - É um projeto de site fictício de uma agência de turismo.
 - [Pesquisa Culturama](https://github.com/annacm0/pesquisa-culturama.git) - Criação de um formulário para pesquisa de opinião da Culturama.
 - [Tecboard](https://github.com/annacm0/tecboard.git) - Simulação de um fluxo real de trabalho para criação de um aplicativo de monitoramento de sistemas.
 - [Netflix Clone](https://github.com/annacm0/netflix-interface-practice.git) - Um projeto inicial de streaming inspirado na Netflix.
