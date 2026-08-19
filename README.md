@@ -6,8 +6,8 @@ Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas
 - Linguagens: C, JavaScript, Python
 - Desenvolvimento web: HTML5, CSS3
 - UI/UX: Figma
-- Ambiente: Antigravity, Claude Code, Colab, VS Code
-- Versionamento: Git e GitHub
+- Ambientes e ferramentas: Antigravity, Claude Code, Colab, VS Code
+- Controle de versão e repositórios: Git e GitHub
 
 🚀 Projetos educativos que desenvolvi
 
