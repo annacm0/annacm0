@@ -143,7 +143,7 @@ Projetos desenvolvidos ao longo dos meus estudos para praticar lógica de progra
 
 Aprofundando meus conhecimentos por meio da graduação, cursos e desenvolvimento de projetos práticos.
 
-`Python` • `APIs` • `Inteligência Artificial` • `Cloud` • `Arquitetura de Software` • `Banco de Dados e Modelagem de Dados` 
+`Python` • `APIs REST` • `Inteligência Artificial` • `AWS/Cloud` • `Arquitetura de Software` • `Banco de Dados e Modelagem de Dados` 
 
 
 ## Contato
