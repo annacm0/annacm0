@@ -1,9 +1,9 @@
 Olá! 
 
-Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas, com interesse em construir carreira em Inteligência Artificial e experiência acadêmica e prática em desenvolvimento de software, banco de dados e integração de soluções de IA via APIs. Busco uma oportunidade de estágio para aprofundar meus conhecimentos em IA e dados, aplicando tecnologia na resolução de problemas reais e de alta escala.
+Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas, com interesse em construir carreira em Inteligência Artificial e experiência acadêmica e prática em desenvolvimento de software, banco de dados e integração de soluções de IA via APIs. Busco uma oportunidade de estágio para aprofundar meus conhecimentos e contribuir com a equipe, aplicando tecnologia na resolução de problemas reais e de alta escala.
 
 🛠️ Tecnologias que estou estudando
-- Linguagens: C, JavaScript, Python
+- Linguagens: Python, JavaScript, C
 - Desenvolvimento web: HTML5, CSS3
 - UI/UX: Figma
 - Ambientes e ferramentas: Antigravity, Claude Code, Colab, VS Code
@@ -11,6 +11,7 @@ Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas
 
 🚀 Projetos educativos que desenvolvi
 
+- [Python-fundamentos](https://github.com/annacm0/python-fundamentos.git)) - Exercícios práticos de Python para estudo e consolidação dos fundamentos da linguagem.
 - [Jornada-viagens](https://github.com/annacm0/jornada-viagens) - É um projeto de site fictício de uma agência de turismo.
 - [Pesquisa Culturama](https://github.com/annacm0/pesquisa-culturama.git) - Criação de um formulário para pesquisa de opinião da Culturama.
 - [Tecboard](https://github.com/annacm0/tecboard.git) - Simulação de um fluxo real de trabalho para criação de um aplicativo de monitoramento de sistemas.
