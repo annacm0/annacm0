@@ -11,7 +11,7 @@ Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas
 
 🚀 Projetos educativos que desenvolvi
 
-- [Python-fundamentos](https://github.com/annacm0/python-fundamentos.git)) - Exercícios práticos de Python para estudo e consolidação dos fundamentos da linguagem.
+- [Python-fundamentos](https://github.com/annacm0/python-fundamentos.git) - Exercícios práticos de Python para estudo e consolidação dos fundamentos da linguagem.
 - [Jornada-viagens](https://github.com/annacm0/jornada-viagens) - É um projeto de site fictício de uma agência de turismo.
 - [Pesquisa Culturama](https://github.com/annacm0/pesquisa-culturama.git) - Criação de um formulário para pesquisa de opinião da Culturama.
 - [Tecboard](https://github.com/annacm0/tecboard.git) - Simulação de um fluxo real de trabalho para criação de um aplicativo de monitoramento de sistemas.
