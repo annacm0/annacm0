@@ -54,7 +54,7 @@ No projeto, venho trabalhando desde a definição das regras de negócio e arqui
 
 **Status:** Em desenvolvimento 🚧
 
-[Ver repositório →](https://github.com/annacm0/reativa.git)
+[Ver repositório →](https://github.com/annacm0/reativa)
 
 
 ### teAchei
@@ -101,7 +101,7 @@ Projeto acadêmico simulando etapas da criação de uma aplicação de monitoram
 
 `HTML` `CSS`
 
-[Ver repositório →](https://github.com/annacm0/tecboard.git)
+[Ver repositório →](https://github.com/annacm0/tecboard)
 
 
 ### Pesquisa Culturama
@@ -110,7 +110,7 @@ Formulário web desenvolvido para praticar estruturação de interfaces, formul�
 
 `HTML` `CSS`
 
-[Ver repositório →](https://github.com/annacm0/pesquisa-culturama.git)
+[Ver repositório →](https://github.com/annacm0/pesquisa-culturama)
 
 
 <details>
@@ -118,19 +118,19 @@ Formulário web desenvolvido para praticar estruturação de interfaces, formul�
 
 **Netflix Clone**  
 Projeto de prática em desenvolvimento web.  
-[Ver repositório →](https://github.com/annacm0/netflix-interface-practice.git)
+[Ver repositório →](https://github.com/annacm0/netflix-interface-practice)
 
 <br>
 
 **Cálculo de IMC em C**  
 Exercício para prática de lógica de programação e estruturas condicionais.  
-[Ver repositório →](https://github.com/annacm0/calculo-imc-c.git)
+[Ver repositório →](https://github.com/annacm0/calculo-imc-c)
 
 <br>
 
 **Despesas de viagem em C**  
 Exercício desenvolvido para praticar fundamentos da linguagem C.  
-[Ver repositório →](https://github.com/annacm0/despesas_viagem.git)
+[Ver repositório →](https://github.com/annacm0/despesas_viagem)
 
 <br>
 
