@@ -1,88 +1,199 @@
-Olá! 
+<p align="center">
+  <img src="./banner_3_profile.png" alt="Banner de Anna Carolina" width="100%">
+</p>
 
-Me chamo Anna Carolina e sou graduanda em Análise e Desenvolvimento de Sistemas, com interesse em construir carreira em Inteligência Artificial e experiência acadêmica e prática em desenvolvimento de software, banco de dados e integração de soluções de IA via APIs. Busco uma oportunidade de estágio para aprofundar meus conhecimentos e contribuir com a equipe, aplicando tecnologia na resolução de problemas reais e de alta escala.
+## 👩‍💻 Sobre mim
 
-🛠️ Tecnologias que estou estudando
-- Linguagens: Python, JavaScript, C
-- Desenvolvimento web: HTML5, CSS3
-- UI/UX: Figma
-- Ambientes e ferramentas: Antigravity, Claude Code, Colab, VS Code
-- Controle de versão e repositórios: Git e GitHub
+Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco no
+desenvolvimento das minhas competências em programação, desenvolvimento
+de software e Inteligência Artificial.
 
-🚀 Projetos educativos que desenvolvi
+Minha trajetória profissional anterior em gestão de projetos contribuiu
+para desenvolver organização, visão de processos, análise de problemas e
+trabalho em equipe — competências que hoje também aplico nos meus projetos
+de tecnologia.
 
-- [Python-fundamentos](https://github.com/annacm0/python-fundamentos.git) - Exercícios práticos de Python para estudo e consolidação dos fundamentos da linguagem.
-- [Jornada-viagens](https://github.com/annacm0/jornada-viagens) - É um projeto de site fictício de uma agência de turismo.
-- [Pesquisa Culturama](https://github.com/annacm0/pesquisa-culturama.git) - Criação de um formulário para pesquisa de opinião da Culturama.
-- [Tecboard](https://github.com/annacm0/tecboard.git) - Simulação de um fluxo real de trabalho para criação de um aplicativo de monitoramento de sistemas.
-- [Netflix Clone](https://github.com/annacm0/netflix-interface-practice.git) - Um projeto inicial de streaming inspirado na Netflix.
-- [Cálculo de IMC](https://github.com/annacm0/calculo-imc-c.git) - Um projeto simples para fixação de lógica.
-- [Despesas de Viagem](https://github.com/annacm0/despesas_viagem.git) - Um programa em C para cálculo de gastos com combustível.
-- [Calculadora de idade](https://github.com/annacm0/estudos-python.git) - Este é um projeto simples desenvolvido para praticar a lógica de programação e a manipulação de entradas e saídas de dados com Python.
+Atualmente, além da graduação, desenvolvo projetos próprios, projetos
+acadêmicos e estudos práticos, buscando transformar conceitos de programação
+em soluções para problemas reais.
 
+🎯 **Objetivo atual:** oportunidade de estágio ou júnior em Tecnologia.
 
-🚀 Projetos reais que participei
+---
 
-🔎 teAchei — Análise Técnica de Aplicação Web
+## 🛠️ Tecnologias e ferramentas
 
-Sobre o projeto
+### Linguagens
 
-O **teAchei** é uma startup com uma plataforma de achados e perdidos baseada em etiquetas QR Code. Ao encontrar um objeto identificado e escanear o código, a plataforma permite acionar o proprietário e registrar informações relacionadas ao achado.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Minha participação surgiu a partir de um convite para apoiar tecnicamente o projeto na parte do desenvolvimento de software. Antes de realizar qualquer alteração no sistema, optei por compreender o código existente e levantar os principais riscos e pontos de melhoria.
+### Desenvolvimento Web
 
-## Minha atuação
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Nesta primeira etapa, realizei uma análise técnica e estrutural do código-fonte existente, sem modificar arquivos da aplicação.
+### Ferramentas
 
-O objetivo foi entender como o sistema estava organizado, mapear o fluxo da aplicação e identificar problemas que poderiam dificultar sua manutenção e evolução. A análise resultou em uma documentação técnica com os achados classificados por impacto e prioridade.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Entre os pontos analisados estão:
+### Também estudando
+
+`APIs` • `Banco de Dados` • `Inteligência Artificial` • `Cloud` • `Arquitetura de Software`
+
+---
+
+# 🚀 Projetos em destaque
+
+## 🔄 Reativa
+
+**SaaS B2B para apoiar pequenos negócios na reativação de clientes recorrentes.**
+
+O projeto nasceu da ideia de utilizar dados de atendimentos anteriores para
+identificar clientes próximos do período esperado de retorno e facilitar
+ações de relacionamento.
+
+Estou desenvolvendo o projeto desde a definição das regras de negócio até
+backend e frontend, trabalhando conceitos como:
+
+- arquitetura de aplicação;
+- APIs REST;
+- autenticação;
+- modelagem de dados;
+- isolamento de dados entre empresas;
+- validação e tratamento de erros;
+- regras de negócio;
+- Git e fluxo de branches;
+- desenvolvimento de interface.
+
+**Status:** 🚧 Em desenvolvimento
+
+---
+
+## 🔎 teAchei — Análise técnica de aplicação real
+
+O **teAchei** é uma plataforma de achados e perdidos baseada em etiquetas
+QR Code.
+
+Fui convidada a apoiar tecnicamente o projeto e iniciei o trabalho realizando
+uma análise do código existente antes de qualquer alteração na aplicação.
+
+Durante o diagnóstico, analisei:
 
 - arquitetura e organização do projeto;
-- estrutura de pastas e responsabilidades dos arquivos;
-- fluxo entre front-end, back-end, API e banco de dados;
-- rotas, controllers, services, models e views;
-- dependências utilizadas e não utilizadas;
-- arquivos órfãos, código legado e duplicações;
+- fluxo entre frontend, backend, API e banco de dados;
+- rotas, controllers, services e models;
+- dependências e código legado;
+- arquivos duplicados ou sem utilização;
 - configurações de ambiente;
 - riscos de segurança;
-- dívida técnica e manutenibilidade;
-- priorização das melhorias antes de futuras alterações no código.
+- dívida técnica e manutenibilidade.
 
-## Stack identificada
+### Stack analisada
 
-`Node.js` · `Express` · `EJS` · `AngularJS` · `MongoDB` · `Mongoose` · `Railway`
+`Node.js` • `Express` • `EJS` • `AngularJS` • `MongoDB` • `Mongoose` • `Railway`
 
-A aplicação foi identificada como um monolito com arquitetura híbrida entre renderização server-side (EJS) e SPA parcial em AngularJS, utilizando uma API REST para comunicação com o MongoDB.
+O trabalho resultou em uma **documentação técnica com os problemas
+identificados, impacto e priorização das melhorias**.
 
-## Principais achados
+> Esta experiência tem sido especialmente importante para aprender a
+> compreender e avaliar uma aplicação real já existente antes de iniciar
+> modificações ou refatorações.
 
-A análise mostrou que o sistema possui funcionalidades já implementadas, mas acumulou uma dívida técnica relevante. Foram encontrados pontos relacionados à separação de responsabilidades, organização do código, arquivos e dependências sem uso, versões legadas mantidas no projeto e ausência de testes automatizados.
+---
 
-Também foram identificados pontos de segurança que precisam ser tratados com prioridade, incluindo ausência de autenticação em rotas da API, configuração de CORS aberta, carregamento dinâmico de models sem uma lista de permissões e código de backend localizado dentro da pasta pública da aplicação.
+# 📚 Projetos de aprendizagem
 
-Por se tratar de uma aplicação real, esses achados foram documentados e priorizados antes de qualquer tentativa de refatoração, evitando alterar o sistema sem compreender previamente suas dependências e possíveis impactos.
+Aqui registro projetos desenvolvidos durante minha graduação e estudos
+complementares.
 
-🚨 Próximas etapas propostas
+### 🐍 Python Fundamentos
 
-A partir do diagnóstico, foi estruturada uma sequência de evolução do projeto:
+Exercícios práticos para consolidar lógica de programação e fundamentos
+da linguagem Python.
 
-1. correção dos pontos críticos de segurança por prioridade;
-2. limpeza segura de arquivos e recursos não utilizados;
-3. reorganização da estrutura do backend;
-4. revisão de dependências e código legado;
-5. melhoria gradual da arquitetura e manutenibilidade;
-6. preparação do projeto para futuras evoluções com maior segurança.
+**Conteúdos:** entrada e saída de dados, operadores, condicionais e outros
+fundamentos da linguagem.
 
-Obs.: diagnóstico e documentação técnica concluídos. Até o momento, nenhuma alteração foi realizada no código oficial da aplicação.
+➡️ [Ver repositório](https://github.com/annacm0/python-fundamentos)
 
-## O que essa experiência está me proporcionando
+---
 
-Este projeto tem sido uma oportunidade de aplicar os conhecimentos da graduação em um sistema real e já em produção, indo além da implementação de novas funcionalidades. O principal aprendizado nesta etapa tem sido compreender um código existente, investigar como suas partes se relacionam, identificar riscos e pensar em melhorias de forma gradual antes de começar a refatoração.
+### ✈️ Jornada Viagens
 
-Também tem reforçado minha visão sobre arquitetura de software, segurança, organização de código e manutenção de sistemas legados — aspectos que muitas vezes só ficam evidentes quando trabalhamos com uma aplicação que já possui histórico de desenvolvimento.
+Desenvolvimento de uma interface web para uma agência de turismo fictícia,
+utilizada para praticar estruturação de páginas e estilização responsiva.
 
-📬 Vamos conversar?
-Estou sempre aberta a trocar ideias e aprender coisas novas!
-www.linkedin.com/in/anna-carolina-de-miranda-araujo-dias-couto-6332a679
+`HTML` • `CSS`
+
+➡️ [Ver repositório](https://github.com/annacm0/jornada-viagens)
+
+---
+
+### 🖥️ Tecboard
+
+Projeto acadêmico simulando etapas de criação de uma aplicação de
+monitoramento de sistemas.
+
+Aplicação de conceitos de planejamento, levantamento de requisitos,
+prototipação e desenvolvimento.
+
+---
+
+### 🎨 Pesquisa Culturama
+
+Formulário web desenvolvido para praticar criação e organização de
+interfaces e formulários.
+
+`HTML` • `CSS`
+
+---
+
+<details>
+<summary><b>📂 Ver outros exercícios e projetos de aprendizagem</b></summary>
+
+<br>
+
+- Netflix Clone
+- Cálculo de IMC em C
+- Despesas de viagem em C
+- Calculadora de idade em Python
+
+Esses projetos fazem parte da minha evolução nos fundamentos de
+programação e desenvolvimento.
+
+</details>
+
+---
+
+## 📈 Em evolução
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Python
+- JavaScript
+- Desenvolvimento Front-end e Back-end
+- APIs
+- Inteligência Artificial 
+- Git e GitHub
+- Cloud e infraestrutura
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna_Carolina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-carolina-de-miranda-araujo-dias-couto-6332a679/)
+
+</p>
+
+---
+
+<p align="center">
+  💻 Aprendendo, construindo e evoluindo um projeto de cada vez.
+</p>
