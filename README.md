@@ -57,6 +57,24 @@ No projeto, venho trabalhando desde a definição das regras de negócio e arqui
 [Ver repositório →](https://github.com/annacm0/reativa)
 
 
+## Agendamento Inteligente
+
+**Mini sistema de agendamento desenvolvido com Python para gerenciamento de horários e disponibilidade.**
+
+O projeto implementa uma API para gerenciamento de agendamentos, trabalhando com geração de horários disponíveis, identificação de horários ocupados e validação das regras de disponibilidade.
+
+**Conceitos aplicados:**
+
+`API REST` `FastAPI` `SQLAlchemy` `SQLite` `Testes` `Git`
+
+No projeto, venho trabalhando conceitos de desenvolvimento backend, persistência de dados, organização de serviços, regras de negócio e testes automatizados.
+
+**Status:** Em desenvolvimento 🚧
+
+[Ver repositório →](https://github.com/annacm0/agendamento-inteligente)
+
+
+
 ### teAchei
 
 **Análise técnica de uma aplicação web real de achados e perdidos baseada em etiquetas QR Code.**
