@@ -2,7 +2,7 @@
   <img src="./banner_3_profile.png" alt="Banner de Anna Carolina" width="100%">
 </p>
 
-## Sobre mim
+### Sobre mim
 
 Sou graduanda em Análise e Desenvolvimento de Sistemas, construindo minha trajetória em tecnologia com foco em desenvolvimento de software, Python e Inteligência Artificial.
 
@@ -13,7 +13,7 @@ Além da graduação, desenvolvo projetos próprios, acadêmicos e estudos prát
 🎯 **Objetivo atual:** oportunidades de estágio ou posições júnior em Desenvolvimento de Software e IA.
 
 
-## Tech Stack
+### Tech Stack
 
 **Linguagens**
 
@@ -38,9 +38,9 @@ Além da graduação, desenvolvo projetos próprios, acadêmicos e estudos prát
 ![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20com%20IA-4285F4?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Projetos em destaque
+### 🚀 Projetos em destaque
 
-### Reativa 
+## Reativa 
 
 **SaaS B2B em desenvolvimento para apoiar pequenos negócios na reativação de clientes recorrentes.**
 
@@ -55,6 +55,7 @@ No projeto, venho trabalhando desde a definição das regras de negócio e arqui
 **Status:** Em desenvolvimento 🚧
 
 [Ver repositório →](https://github.com/annacm0/reativa)
+
 
 
 ## Agendamento Inteligente
@@ -75,7 +76,7 @@ No projeto, venho trabalhando conceitos de desenvolvimento backend, persistênci
 
 
 
-### teAchei
+## teAchei
 
 **Análise técnica de uma aplicação web real de achados e perdidos baseada em etiquetas QR Code.**
 
@@ -91,11 +92,11 @@ O diagnóstico resultou em uma documentação técnica com os problemas identifi
 
 🔒 **Repositório privado por decisão da empresa.**
 
-## 📚 Projetos de aprendizagem
+### 📚 Projetos de aprendizagem
 
 Projetos desenvolvidos durante minha graduação e estudos complementares para consolidar fundamentos de programação e desenvolvimento de software.
 
-### Python Fundamentos
+## Python Fundamentos
 
 Exercícios práticos de lógica de programação e fundamentos da linguagem, incluindo entrada e saída de dados, operadores e estruturas condicionais.
 
@@ -104,7 +105,7 @@ Exercícios práticos de lógica de programação e fundamentos da linguagem, in
 [Ver repositório →](https://github.com/annacm0/python-fundamentos)
 
 
-### Jornada Viagens
+## Jornada Viagens
 
 Interface web para uma agência de turismo fictícia, desenvolvida para praticar estruturação de páginas, estilização e responsividade.
 
@@ -113,7 +114,7 @@ Interface web para uma agência de turismo fictícia, desenvolvida para praticar
 [Ver repositório →](https://github.com/annacm0/jornada-viagens)
 
 
-### Tecboard
+## Tecboard
 
 Projeto acadêmico simulando etapas da criação de uma aplicação de monitoramento de sistemas, envolvendo planejamento, levantamento de requisitos, prototipação e desenvolvimento.
 
@@ -122,7 +123,7 @@ Projeto acadêmico simulando etapas da criação de uma aplicação de monitoram
 [Ver repositório →](https://github.com/annacm0/tecboard)
 
 
-### Pesquisa Culturama
+## Pesquisa Culturama
 
 Formulário web desenvolvido para praticar estruturação de interfaces, formulários e estilização.
 
