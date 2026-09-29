@@ -4,14 +4,17 @@
 
 ## Sobre mim
 
-Sou graduanda em Análise e Desenvolvimento de Sistemas, construindo minha trajetória em tecnologia com foco em desenvolvimento de software, Python e Inteligência Artificial.
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 
-Minha experiência profissional anterior em gestão de projetos contribuiu para desenvolver organização, visão de processos, análise de problemas e trabalho em equipe — competências que hoje também aplico no desenvolvimento e na análise de soluções tecnológicas.
+Atualmente, estou aprofundando meus conhecimentos em Python, Backend, APIs REST, bancos de dados, Cloud e Inteligência Artificial, desenvolvendo projetos pessoais e educativos para transformar conhecimento em soluções funcionais.
 
-Além da graduação, desenvolvo projetos próprios, acadêmicos e estudos práticos, buscando transformar conceitos de programação em soluções para problemas reais e evoluir continuamente minhas competências técnicas.
+Tenho experiência anterior em Gestão de Projetos, que contribui para minha visão de organização, processos, análise de problemas e desenvolvimento de soluções.
 
-🎯 **Objetivo atual:** oportunidades de estágio ou posições júnior em Desenvolvimento de Software e IA.
+Meu objetivo é unir tecnologia, dados e IA para construir soluções para problemas reais.
 
+🎯 Busco oportunidades de estágio ou posições júnior em Desenvolvimento de Software, Backend, Dados e Inteligência Artificial.
+
+---
 
 ## Tech Stack
 
@@ -19,12 +22,36 @@ Além da graduação, desenvolvo projetos próprios, acadêmicos e estudos prát
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Backend e APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+**Banco de Dados**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Desenvolvimento Web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Inteligência Artificial**
+
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-8A2BE2?style=flat-square)
+![APIs de IA](https://img.shields.io/badge/APIs%20de%20IA-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 **Ferramentas**
 
@@ -35,12 +62,27 @@ Além da graduação, desenvolvo projetos próprios, acadêmicos e estudos prát
 **Ambiente de desenvolvimento & IA**
 
 ![Claude](https://img.shields.io/badge/Claude-IA-D97757?style=flat-square)
-![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20com%20IA-4285F4?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20com%20IA-6C63FF?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Projetos em destaque
+---
 
-### Reativa 
+## Projetos em destaque
+
+🟦 Pokédex API
+
+API REST desenvolvida com Python e FastAPI, integrada à PokéAPI para consulta de dados de Pokémon.
+
+O projeto inclui criação de endpoints HTTP, consumo de API externa, tratamento de erros, testes automatizados, documentação interativa com Swagger/OpenAPI e deploy em nuvem.
+
+Tecnologias: Python, FastAPI, REST API, Pytest, HTTPX, Requests e Render.
+
+🌐 API: https://pokedex-api-85l0.onrender.com
+📚 Swagger: https://pokedex-api-85l0.onrender.com/docs
+💻 Repositório: https://github.com/annacm0/pokedex-api
+
+
+🟦 Reativa 
 
 **SaaS B2B em desenvolvimento para apoiar pequenos negócios na reativação de clientes recorrentes.**
 
@@ -48,7 +90,7 @@ A solução utiliza dados de atendimentos anteriores e regras de negócio para i
 
 **Conceitos aplicados:**
 
-`APIs REST` `Autenticação` `Modelagem de Dados` `Multi-tenant` `Arquitetura` `Git`
+`React` `APIs REST` `Autenticação` `Modelagem de Dados` `Multi-tenant` `Arquitetura` 
 
 No projeto, venho trabalhando desde a definição das regras de negócio e arquitetura até o desenvolvimento de backend e frontend.
 
@@ -57,8 +99,7 @@ No projeto, venho trabalhando desde a definição das regras de negócio e arqui
 [Ver repositório →](https://github.com/annacm0/reativa)
 
 
-
-### Agendamento Inteligente
+🟦 Agendamento Inteligente
 
 **Mini sistema de agendamento desenvolvido com Python para gerenciamento de horários e disponibilidade.**
 
@@ -66,7 +107,7 @@ O projeto implementa uma API para gerenciamento de agendamentos, trabalhando com
 
 **Conceitos aplicados:**
 
-`API REST` `FastAPI` `SQLAlchemy` `SQLite` `Testes` `Git`
+`API REST` `FastAPI` `SQLAlchemy` `SQLite` `Pytestes` 
 
 No projeto, venho trabalhando conceitos de desenvolvimento backend, persistência de dados, organização de serviços, regras de negócio e testes automatizados.
 
@@ -75,8 +116,7 @@ No projeto, venho trabalhando conceitos de desenvolvimento backend, persistênci
 [Ver repositório →](https://github.com/annacm0/agendamento-inteligente)
 
 
-
-### teAchei
+🟦 teAchei
 
 **Análise técnica de uma aplicação web real de achados e perdidos baseada em etiquetas QR Code.**
 
@@ -92,7 +132,9 @@ O diagnóstico resultou em uma documentação técnica com os problemas identifi
 
 🔒 **Repositório privado por decisão da empresa.**
 
-## 📚 Projetos de aprendizagem
+---
+
+## Projetos de aprendizagem
 
 Projetos desenvolvidos durante minha graduação e estudos complementares para consolidar fundamentos de programação e desenvolvimento de software.
 
@@ -157,15 +199,32 @@ Projetos desenvolvidos ao longo dos meus estudos para praticar lógica de progra
 
 </details>
 
+---
 
-## 🌱 Atualmente estudando
+## Atualmente estudando
 
-Aprofundando meus conhecimentos por meio da graduação, cursos e desenvolvimento de projetos práticos.
+Estou continuamente aprofundando meus conhecimentos em:
 
 `Python` • `APIs REST` • `Inteligência Artificial` • `AWS/Cloud` • `Arquitetura de Software` • `Banco de Dados e Modelagem de Dados` 
 
+Meu foco é evoluir na construção de soluções backend, integrações via APIs, aplicações orientadas a dados e soluções com Inteligência Artificial.
 
-## Contato
+---
+
+## 💡 Como gosto de trabalhar
+
+Transformar problemas em soluções práticas.
+Aprender construindo projetos.
+Organizar código e documentação.
+Utilizar Git e GitHub no desenvolvimento.
+Trabalhar com branches e Pull Requests.
+Testar as funcionalidades desenvolvidas.
+Explorar novas tecnologias e ferramentas de IA.
+Buscar compreender não apenas como uma solução funciona, mas também por que ela foi construída daquela forma.
+
+---
+
+## 📫 Contato
 
 Aberta a oportunidades de estágio e posições júnior em tecnologia, além de conexões e trocas com profissionais e estudantes da área.
 
