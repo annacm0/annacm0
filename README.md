@@ -71,7 +71,9 @@ API REST desenvolvida com Python e FastAPI, integrada à PokéAPI para consulta 
 
 O projeto inclui criação de endpoints HTTP, consumo de API externa, tratamento de erros, testes automatizados, documentação interativa com Swagger/OpenAPI e deploy em nuvem.
 
-Tecnologias: Python, FastAPI, REST API, Pytest, HTTPX, Requests e Render.
+**Conceitos aplicados:**
+
+`Python` `APIs REST` `FastAPI` `Pytest` `HTTPX` `Request` `Render` 
 
 🌐 API: https://pokedex-api-85l0.onrender.com<br>
 📚 Swagger: https://pokedex-api-85l0.onrender.com/docs<br>
