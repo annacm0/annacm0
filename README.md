@@ -14,8 +14,6 @@ Meu objetivo é unir tecnologia, dados e IA para construir soluções para probl
 
 🎯 Busco oportunidades de estágio ou posições júnior em Desenvolvimento de Software, Backend, Dados e Inteligência Artificial.
 
----
-
 ## Tech Stack
 
 **Linguagens**
@@ -64,8 +62,6 @@ Meu objetivo é unir tecnologia, dados e IA para construir soluções para probl
 ![Claude](https://img.shields.io/badge/Claude-IA-D97757?style=flat-square)
 ![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20com%20IA-6C63FF?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
 
 ## Projetos em destaque
 
@@ -132,8 +128,6 @@ O diagnóstico resultou em uma documentação técnica com os problemas identifi
 
 🔒 **Repositório privado por decisão da empresa.**
 
----
-
 ## Projetos de aprendizagem
 
 Projetos desenvolvidos durante minha graduação e estudos complementares para consolidar fundamentos de programação e desenvolvimento de software.
@@ -199,8 +193,6 @@ Projetos desenvolvidos ao longo dos meus estudos para praticar lógica de progra
 
 </details>
 
----
-
 ## Atualmente estudando
 
 Estou continuamente aprofundando meus conhecimentos em:
@@ -208,8 +200,6 @@ Estou continuamente aprofundando meus conhecimentos em:
 `Python` • `APIs REST` • `Inteligência Artificial` • `AWS/Cloud` • `Arquitetura de Software` • `Banco de Dados e Modelagem de Dados` 
 
 Meu foco é evoluir na construção de soluções backend, integrações via APIs, aplicações orientadas a dados e soluções com Inteligência Artificial.
-
----
 
 ## 💡 Como gosto de trabalhar
 
@@ -221,8 +211,6 @@ Trabalhar com branches e Pull Requests.
 Testar as funcionalidades desenvolvidas.
 Explorar novas tecnologias e ferramentas de IA.
 Buscar compreender não apenas como uma solução funciona, mas também por que ela foi construída daquela forma.
-
----
 
 ## 📫 Contato
 
