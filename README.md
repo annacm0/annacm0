@@ -73,8 +73,8 @@ O projeto inclui criação de endpoints HTTP, consumo de API externa, tratamento
 
 Tecnologias: Python, FastAPI, REST API, Pytest, HTTPX, Requests e Render.
 
-🌐 API: https://pokedex-api-85l0.onrender.com
-📚 Swagger: https://pokedex-api-85l0.onrender.com/docs
+🌐 API: https://pokedex-api-85l0.onrender.com<br>
+📚 Swagger: https://pokedex-api-85l0.onrender.com/docs<br>
 💻 Repositório: https://github.com/annacm0/pokedex-api
 
 
@@ -201,22 +201,22 @@ Estou continuamente aprofundando meus conhecimentos em:
 
 Meu foco é evoluir na construção de soluções backend, integrações via APIs, aplicações orientadas a dados e soluções com Inteligência Artificial.
 
-## 💡 Como gosto de trabalhar
+## Como gosto de trabalhar
 
-Transformar problemas em soluções práticas.
-Aprender construindo projetos.
-Organizar código e documentação.
-Utilizar Git e GitHub no desenvolvimento.
-Trabalhar com branches e Pull Requests.
-Testar as funcionalidades desenvolvidas.
-Explorar novas tecnologias e ferramentas de IA.
+Transformar problemas em soluções práticas<br>
+Aprender construindo projetos<br>
+Organizar código e documentação<br>
+Utilizar Git e GitHub no desenvolvimento<br>
+Trabalhar com branches e Pull Requests<br>
+Testar as funcionalidades desenvolvidas<br>
+Explorar novas tecnologias e ferramentas de IA<br>
 Buscar compreender não apenas como uma solução funciona, mas também por que ela foi construída daquela forma.
 
-## 📫 Contato
+## Contato
 
 Aberta a oportunidades de estágio e posições júnior em tecnologia, além de conexões e trocas com profissionais e estudantes da área.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna_Carolina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-carolina-de-miranda-araujo-dias-couto-6332a679/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna_Carolina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-carolina-de-miranda-araujo-dias-couto-6332a679/)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-annacm0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/annacm0)
 
 
